@@ -1,7 +1,7 @@
 # E-commerce-website---Lovable
 A modern e-commerce website for selling custom t-shirts, built using Lovable with an intuitive shopping experience, product browsing, and streamlined checkout.
 
-[link text](https://tee-style-minimalist-shop.lovable.app)
+[Website link](https://tee-style-minimalist-shop.lovable.app)
 
 <img width="975" height="429" alt="image" src="https://github.com/user-attachments/assets/7462e12b-9a32-4fbf-bcad-b035fbf28d4e" />
 
